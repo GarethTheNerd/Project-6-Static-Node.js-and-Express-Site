@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content
+    div.error
+        h1= err.status
+        h1= err.message
+        span= "The technical details are below:"
+        pre= err.stack

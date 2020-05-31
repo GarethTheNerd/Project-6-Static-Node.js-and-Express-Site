@@ -5,30 +5,30 @@
       "project_name": "Treehouse Project 1 - Random Quote Generator",
       "description": "A random quote generator that contains auto refresh and random colours.",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "",
+      "live_link": "https://projects.garethkirk.com/FSJS-1/",
       "github_link": "https://github.com/GarethTheNerd/Project-1-Random-Quotes/",
-      "image_urls": ["../images/1/Main.png", "../images/1/1.png"]
+      "image_urls": ["../static/images/1/Main.png", "../static/images/1/1.png"]
     },
     {
       "id": 1,
       "project_name": "Treehouse Project 2 - Pagination",
       "description": "A simple app that paginates some data and adds a search feature.",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "",
+      "live_link": "https://projects.garethkirk.com/FSJS-2/",
       "github_link": "https://github.com/GarethTheNerd/Project-2-Pagination/",
-      "image_urls": ["../images/2/Main.png", "../images/2/1.png"]
+      "image_urls": ["../static/images/2/Main.png", "../static/images/2/1.png"]
     },
     {
       "id": 2,
       "project_name": "Treehouse Project 3 - Interactive Form",
       "description": "A interactive form that uses javascript for form validation",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "",
+      "live_link": "https://projects.garethkirk.com/FSJS-3/",
       "github_link": "https://github.com/GarethTheNerd/Project-3-Interactive-Form/",
       "image_urls": [
-        "../images/3/Main.png",
-        "../images/3/1.png",
-        "../images/3/2.png"
+        "../static/images/3/Main.png",
+        "../static/images/3/1.png",
+        "../static/images/3/2.png"
       ]
     },
     {
@@ -36,13 +36,13 @@
       "project_name": "Treehouse Project 4 - Phrase Hunter Game",
       "description": "A game written in js that uses object orientated programming to make a game where you have to guess the phrase, before running out of lives.",
       "technologies": ["Javascript", "HTML", "CSS", "OOP"],
-      "live_link": "",
+      "live_link": "https://projects.garethkirk.com/FSJS-4/",
       "github_link": "https://github.com/GarethTheNerd/Project-4-OOP-Game-Show/",
       "image_urls": [
-        "../images/4/Main.png",
-        "../images/4/1.png",
-        "../images/4/2.png",
-        "../images/4/3.png"
+        "../static/images/4/Main.png",
+        "../static/images/4/1.png",
+        "../static/images/4/2.png",
+        "../static/images/4/3.png"
       ]
     },
     {
@@ -50,13 +50,13 @@
       "project_name": "Treehouse Project 4 - Public API requests",
       "description": "A project that shows a random user directory from an API complete with search, navigation and a modal.",
       "technologies": ["Javascript", "HTML", "CSS", "API", "JS-Fetch", "AJAX"],
-      "live_link": "",
+      "live_link": "https://projects.garethkirk.com/FSJS-5/",
       "github_link": "https://github.com/GarethTheNerd/Project-5-Public-API-Requests/",
       "image_urls": [
-        "../images/5/Main.png",
-        "../images/5/1.png",
-        "../images/5/2.png",
-        "../images/5/3.png"
+        "../static/images/5/Main.png",
+        "../static/images/5/1.png",
+        "../static/images/5/2.png",
+        "../static/images/5/3.png"
       ]
     }
   ]
