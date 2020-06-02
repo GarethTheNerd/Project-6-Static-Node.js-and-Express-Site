@@ -47,7 +47,7 @@
     },
     {
       "id": 4,
-      "project_name": "Treehouse Project 4 - Public API requests",
+      "project_name": "Treehouse Project 5 - Public API requests",
       "description": "A project that shows a random user directory from an API complete with search, navigation and a modal.",
       "technologies": ["Javascript", "HTML", "CSS", "API", "JS-Fetch", "AJAX"],
       "live_link": "https://projects.garethkirk.com/FSJS-5/",
